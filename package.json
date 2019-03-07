@@ -1,0 +1,39 @@
+{
+  "name": "urban-robot-resume",
+  "version": "1.0.0",
+  "description": "Resume in an innovative way like a NODE ROBOT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lchrajkumar/urban-robot-resume.git"
+  },
+  "keywords": [
+    "urban",
+    "robot",
+    "urban",
+    "resume",
+    "filthy",
+    "resume",
+    "yoyo",
+    "resume"
+  ],
+  "author": "L.Ch.Rajkumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lchrajkumar/urban-robot-resume/issues"
+  },
+  "homepage": "https://github.com/lchrajkumar/urban-robot-resume#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  },
+
+  "bin": {
+
+  "urban-robot-resume": "./index.js"
+
+  }
+}
