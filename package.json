@@ -1,6 +1,6 @@
 {
   "name": "urban-robot-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resume in an innovative way like a NODE ROBOT.",
   "main": "index.js",
   "scripts": {
@@ -30,10 +30,7 @@
     "chalk": "^2.4.2",
     "inquirer": "^6.2.2"
   },
-
   "bin": {
-
-  "urban-robot-resume": "./index.js"
-
+    "urban-robot-resume": "./index.js"
   }
 }
